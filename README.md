@@ -21,4 +21,6 @@ mobile devcies who cannot lock a GPS satellite location to know where they are.
 It requires the IP address to be forwarded to it by the web server, in the running
 case Nginx.
 
+This protocol has been submitted to the Internet task force and will hopefully become a standard.
+
 Rob Brew (<a href="mailto:rob@rydal.org">rob@rydal.org</a>).
