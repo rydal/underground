@@ -7,12 +7,7 @@ providing GPS locations over WiFI using remote IP detection for a
 server to respond with the correct name of clients location and the
 clients GPS location.
 
-Extending this to those without WifI access the standard goes one
-stage further, by offering a hidden wifi network with a standard name,
-such as .location. The principle being that mobile devices can look
-for this network in cases where GPS data cannot be collected. It is
-hoped that this will allow those using mapping services to know where
-they are when travelling on underground trains etc.
+
 
 The Java application here will look at a connection request's IP address and from there 
 return a latitude and longitude plus name for that location. Thereby enabling
