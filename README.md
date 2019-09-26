@@ -1,6 +1,6 @@
 Problem statement:
 
-When users are at known undergroudn locations, such as tube stations
+When users are at known underground locations, such as tube stations
 they often do not have a GPS signal, as the radio waves from the
 satellites required cannot penetrate the earth, this RFC suggests
 providing GPS locations over WiFI using remote IP detection for a
@@ -17,5 +17,7 @@ It requires the IP address to be forwarded to it by the web server, in the runni
 case Nginx.
 
 This protocol has been submitted to the Internet task force and will hopefully become a standard.
+
+Video demonstration <A HREF="https://youtu.be/pqURqmVVwYk"> here</A>
 
 Rob Brew (<a href="mailto:rob@rydal.org">rob@rydal.org</a>).
